@@ -87,15 +87,15 @@ def changing_alan
 	programmer_hash = 
  		{
         :grace_hopper => {
-          :known_for => ["COBOL"],
+          :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => ["Object Orientation"],
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => ["Unix"],
+          :known_for => "Unix",
           :languages => ["C"]
         }
      }
